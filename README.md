@@ -58,10 +58,10 @@ source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Copy your OpenAI API key into `.env`:
+Copy your GEMINI API key into `.env`:
 
 ```
-OPENAI_API_KEY=sk-...
+GEMINI_API_KEY=...
 ```
 
 ## Running
