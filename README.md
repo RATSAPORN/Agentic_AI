@@ -42,7 +42,7 @@ ai-engineer-test/
 ├── main.py                   # entry point — runs sample queries
 ├── tools/
 │   ├── __init__.py
-│   └── retrieval.py          # custom keyword search tool
+│   └── retrieval_function.py          # custom keyword search tool
 ├── agents_def/
 │   ├── __init__.py
 │   ├── data_retriever.py     # Data Retriever agent
