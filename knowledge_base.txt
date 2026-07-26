@@ -1,0 +1,17 @@
+Company Policy Handbook — Acme Corp
+
+International Travel Policy: Employees traveling internationally for business must submit a travel request through the HR portal at least 14 days before departure. All international trips require pre-approval from the employee's direct manager and the Finance department. Employees are eligible for economy-class flights for trips under 6 hours and business-class for longer flights. A daily per diem of $75 USD is provided for meals and incidentals, and employees must retain receipts for expenses over $25.
+
+Domestic Travel Policy: Domestic business travel does not require Finance pre-approval but must still be logged in the HR portal at least 3 business days in advance. Employees should use the company's preferred travel booking platform whenever possible to take advantage of negotiated corporate rates. Mileage reimbursement for personal vehicle use is set at the current IRS standard rate.
+
+Remote Work Policy: Employees may work remotely up to 3 days per week with manager approval. Fully remote arrangements require VP-level sign-off and are reviewed quarterly. Remote employees are expected to be available during core hours of 10 AM to 3 PM in their local time zone and must attend all scheduled team meetings via video call.
+
+Paid Time Off (PTO) Policy: Full-time employees accrue 15 days of PTO per year during their first two years of employment, increasing to 20 days after two years and 25 days after five years. PTO requests must be submitted at least 5 business days in advance for approval, except in cases of illness or emergency. Unused PTO up to 5 days may be carried over into the following calendar year.
+
+Expense Reimbursement Policy: All business expenses must be submitted through the expense management system within 30 days of being incurred. Expenses must include an itemized receipt for any amount over $25. Reimbursements are processed on a bi-weekly basis and are typically paid out within 10 business days of approval.
+
+Code of Conduct: Employees are expected to act with honesty, integrity, and professionalism in all business dealings. Harassment, discrimination, and retaliation of any kind are strictly prohibited and will result in disciplinary action, up to and including termination. Employees who witness or experience a violation of this policy should report it to HR or through the anonymous ethics hotline.
+
+Information Security Policy: Employees must use company-approved devices and VPN connections when accessing internal systems remotely. Passwords must be changed every 90 days and must meet minimum complexity requirements. Any suspected security incident, such as a phishing email or lost device, must be reported to the IT Security team within 24 hours.
+
+Health and Wellness Benefits: Full-time employees are eligible for medical, dental, and vision insurance starting on their first day of employment. The company also offers a wellness stipend of $50 per month that can be used toward gym memberships, fitness classes, or wellness apps. An Employee Assistance Program (EAP) provides free confidential counseling sessions for employees and their immediate family members.
