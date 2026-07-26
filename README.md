@@ -48,8 +48,6 @@ ai-engineer-test/
 │   ├── data_retriever.py     # Data Retriever agent
 │   └── report_generator.py   # Report Generator agent
 ├── screenshots/               # output screenshots for submission
-└── outputs/
-    └── sample_runs.md
 ```
 
 ## Setup
