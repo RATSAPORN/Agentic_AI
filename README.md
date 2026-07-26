@@ -22,7 +22,7 @@ Final synthesized answer
 ```
 
 - **Data Retriever Agent** (`agents_def/data_retriever.py`) — only retrieves.
-  It calls a custom tool (`tools/retrieval.py`) that performs keyword search
+  It calls a custom tool (`tools/retrieval_function.py`) that performs keyword search
   over `knowledge_base.txt` and returns raw, relevant snippets. It never
   answers the question directly.
 - **Report Generator Agent** (`agents_def/report_generator.py`) — the
