@@ -34,7 +34,7 @@ Final synthesized answer
 
 ```
 ai-engineer-test/
-├── .env                      # OPENAI_API_KEY (gitignored)
+├── .env                      # GEMINI_API_KEY (gitignored)
 ├── .gitignore
 ├── requirements.txt
 ├── README.md
