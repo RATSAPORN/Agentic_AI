@@ -12,7 +12,7 @@ agent, and it internally calls the Data Retriever tool as needed.
 
 from agents import Agent, ModelSettings
 
-from agents_def.data_retriever import data_retriever_agent
+from agents_def import data_retriever_agent
 import os
 
 MODEL = os.environ.get("GEMINI_MODEL")
